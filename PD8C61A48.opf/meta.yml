@@ -1,0 +1,16 @@
+id: PD8C61A48
+initial_creation_type: input
+source_metadata:
+  title: Dzongsar Series
+  language: bo
+  description: 'Texts related to Dzongsar (rdzong gsar), seat of the Dzongsar Khyentse
+    incarnations and home to the famous Khamjé (khams bye) Shedra:'
+  volume:
+    bd6e84f11720437aa5a24effb859a130:
+      title: A History of Dzongsar Monastery
+      parent: History
+    b50176d8abe74487ab92b775e40f00ed:
+      title: A Brief History of the Sacred Image of White Tārā
+      parent: History
+created_at: '2022-03-01T03:38:16.827032'
+last_modified_at: '2022-03-01T03:38:16.827034'
